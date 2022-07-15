@@ -1,0 +1,13 @@
+section {
+  padding: 60px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.profielfoto {
+  border-radius: 50px;
+  width: 250px;
+  height: auto;
+}
